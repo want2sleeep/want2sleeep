@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=%F0%9F%91%89+Looking+for+FRONT-END+DEVELOP+jobs+%F0%9F%91%88" alt="Typing SVG" /></a>
+</div> 
+
+<hr>
+
+<div align="center">
   <p>Hi! Nice to meet you!👋</p>
   <p>I'm a student of UESTC👨‍🎓</p>
   <p>I love basketball🏀 and music🎶</p>
@@ -6,11 +12,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yudanzhizhi&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yudanzhizhi&theme=cobalt" height="190px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yudanzhizhi&theme=react-dark&days=30" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yudanzhizhi&theme=react-dark&days=20" height="190px" />
 </div>
 
 
