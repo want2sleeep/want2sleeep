@@ -1,7 +1,13 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=%F0%9F%91%89+Looking+for+FRONT-END+DEVELOP+jobs+%F0%9F%91%88" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=%F0%9F%91%89+Looking+for+FRONT-END+DEVELOP+jobs+%F0%9F%91%88" alt="Typing SVG" />
+  </a>
 </div> 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,less,js,ts,react,vue,npm,pnpm,yarn,webpack,vite,git,vuetify" />
+  </a>
+</p>
 <hr>
 
 <div align="center">
