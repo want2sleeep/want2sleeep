@@ -1,25 +1,32 @@
-<div align="center">
+## I'm SleepSheep.👋
+
+<div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=%F0%9F%91%89+Looking+for+FRONT-END+DEVELOP+jobs+%F0%9F%91%88" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&pause=2000&width=500&lines=%F0%9F%91%89+Software+Developer+%26+Front-End+Engineer;Keep+Learning+Through+the+Whole+Life" alt="Typing SVG" />
   </a>
 </div> 
-<p align="center">
+
+- Nice to meet you🫶  
+- I am a student from UESTC👨‍🎓   
+- I love basketball🏀 and music🎶  
+- I play Apex Legends sometimes😎  
+- Now trying to explore artificial intelligent🤖  
+
+[![Email](https://img.shields.io/badge/Email-victorhuang.hy%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victorhuang.hy@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.want2sleep.site-yellow?style=flat-square&logo=google-chrome&logoColor=white)](https://blog.want2sleep.site)
+[![Profile Views](https://komarev.com/ghpvc/?username=want2sleeep&style=flat-square&color=blue)](https://github.com/want2sleeep)
+
+
+
+## 💻 Tech Stack & Dev Tools
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,less,js,ts,react,vue,npm,pnpm,yarn,webpack,vite,git,vuetify" />
   </a>
 </p>
-<hr>
 
-<div align="center">
-  <p>Hi! Nice to meet you!👋</p>
-  <p>I'm a student of UESTC👨‍🎓</p>
-  <p>I love basketball🏀 and music🎶</p>
-  <p>I play Apex Legends sometimes😎</p>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=want2sleeep&theme=cobalt" height="190px" />
-</div>
+
 
 
 <!--
