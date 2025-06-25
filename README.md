@@ -21,10 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=want2sleeep&theme=cobalt" height="190px" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=want2sleeep&theme=react-dark&days=20" height="190px" />
-</div>
-
 
 <!--
 **want2sleeep/want2sleeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
