@@ -9,7 +9,8 @@
 - Nice to meet you🫶  
 - I am a student from UESTC👨‍🎓   
 - I love basketball🏀 and music🎶  
-- I play Apex Legends sometimes😎  
+- I play Apex Legends sometimes😎
+- Open-source typo👀
 - Now trying to explore artificial intelligent🤖  
 
 [![Email](https://img.shields.io/badge/Email-victorhuang.hy%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victorhuang.hy@gmail.com)
