@@ -21,7 +21,7 @@
 ## 💻 Tech Stack & Dev Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,less,js,ts,react,vue,npm,pnpm,yarn,webpack,vite,git,vuetify" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,less,js,ts,nodejs,jquery,react,nextjs,vue,pinia,redux,npm,pnpm,yarn,webpack,vite,git,vuetify,md,github,nginx,vscode,webstorm,linux,windows,apple,vercel,postman," />
   </a>
 </p>
 
