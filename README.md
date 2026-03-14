@@ -14,7 +14,7 @@
 - Now trying to explore artificial intelligent🤖  
 
 [![Email](https://img.shields.io/badge/Email-victorhuang.hy%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:victorhuang.hy@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.want2sleep.site-yellow?style=flat-square&logo=google-chrome&logoColor=white)](https://blog.want2sleep.site)
+[![Blog](https://img.shields.io/badge/Blog-blog.sleepsheep.site-yellow?style=flat-square&logo=google-chrome&logoColor=white)](https://blog.sleepsheep.site)
 [![Profile Views](https://komarev.com/ghpvc/?username=want2sleeep&style=flat-square&color=blue)](https://github.com/want2sleeep)
 
 
