@@ -26,7 +26,6 @@
   </a>
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=want2sleeep&theme=cobalt" height="190px" />
 
 
 
